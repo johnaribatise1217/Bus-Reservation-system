@@ -7,6 +7,7 @@ Welcome aboard the Bus Reservation System repository! We're thrilled to have you
 ## Tech Stack 👨🏻‍💻
 - **Java Spring Boot**
 - **JPA with Hibernate**
+- JWT Security
 - **MySQL**
 
 ## The Engine Room ⚡
@@ -31,5 +32,5 @@ Just like a well-designed bus, our system is built with distinct layers, each se
 Hop on board and explore the repository to see the magic unfold. We're always on the lookout for fellow travelers to join us on this exciting journey. If you spot any bumps on the road or have ideas to make the ride even smoother, don't hesitate to reach out. Together, let's redefine the future of bus travel!
 
 ## Fork This Repository 🍽
-Repository Link [https://github.com/aihikcse/Bus-Reservation-System] <br>
+Repository Link https://github.com/johnaribatise1217/Bus-Reservation-system <br>
 Explore the repository to delve into the codebase and contribute to the enhancement of the Bus Reservation System. Should you encounter any issues or have suggestions for improvements, don't hesitate to open an issue or submit a pull request. Thank you for your interest and support!
